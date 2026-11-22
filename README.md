@@ -8,7 +8,7 @@
 
 🛠 Skills & Technologies:  
 
-- Programming: JavaScript, Python, HTML/CSS, Node.js
+- Programming: Java, JavaScript, Python, HTML/CSS, Node.js
   
 - Frontend: React, Next.js, TailwindCSS
   
